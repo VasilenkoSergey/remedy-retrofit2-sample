@@ -1,0 +1,1 @@
+# Sample BMC Remedy rest client plugin using guice di, retrofit2 library and lombok
